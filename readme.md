@@ -1,4 +1,4 @@
-# Instagram followers scrapper
+# Instagram followers scraper
 
 Instagram scrapping tool that collects information about users followers and unfollowers. Some remarks about IG srapping flow:
 
