@@ -1,0 +1,11 @@
+instagram:
+  email: your_email_address@domain.com
+  username: your_cool_username
+  password: your_super_strong_password
+
+mysql:
+  username: mysql_username
+  password: mysql_psw
+  port: mysql_port
+  host: mysql_host
+  database: mysql_database
